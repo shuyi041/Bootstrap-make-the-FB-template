@@ -1,0 +1,88 @@
+.fs8px {
+  font-size: 8px;
+}
+
+.fs10px {
+  font-size: 10px;
+}
+
+.fs14px {
+  font-size: 14px;
+}
+
+.h30px {
+  height: 30px;
+}
+
+.w30px {
+  width: 30px;
+}
+
+.h40px {
+  height: 40px;
+}
+
+.h45px {
+  height: 45px;
+}
+
+.h50px {
+  height: 50px;
+}
+
+.w50px {
+  width: 50px;
+}
+
+.h300px {
+  height: 300px;
+}
+
+.w300px {
+  width: 300px;
+}
+
+.w400px {
+  width: 400px;
+}
+
+.w500px {
+  width: 500px;
+}
+
+.nav-bgc {
+  background-color: #1c2939;
+}
+
+.main-bgc {
+  background-color: #12171d;
+}
+
+.article-bgc {
+  background-color: #16202a;
+}
+
+input:focus {
+  outline: none;
+}
+
+.mag70px {
+  margin-right: 70px;
+}
+
+.nav-icon div .fa-solid {
+  color: #f8f9fa;
+}
+.nav-icon div .far {
+  color: #f8f9fa;
+}
+
+.nav-icon div:hover {
+  border-bottom: 3px solid #0dcaf0;
+}
+.nav-icon div:hover .fa-solid {
+  color: #0dcaf0;
+}
+.nav-icon div:hover .far {
+  color: #0dcaf0;
+}/*# sourceMappingURL=practiceTwitter.css.map */
